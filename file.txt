@@ -1,2 +1,6 @@
 rebase conf
+<<<<<<< HEAD
 remote repository
+=======
+local repository
+>>>>>>> 7e49247 (commited)
